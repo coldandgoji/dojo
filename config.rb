@@ -90,7 +90,7 @@ activate :directory_indexes
 activate :automatic_image_sizes
 activate :automatic_alt_tags
 
-# ignore 'dependencies/*'
+ignore 'dependencies/*'
 
 # Environment: Development
 configure :development do
