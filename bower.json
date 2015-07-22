@@ -1,0 +1,22 @@
+{
+  "name": "Dojo",
+  "version": "0.0.0",
+  "authors": [
+    "Matthew White <matt@substructu.re>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.1.4",
+    "bourbon": "4.2.3",
+    "neat": "1.7.2",
+    "requirejs": "2.1.17",
+    "daisho": "https://github.com/coldandgoji/daisho.git#master"
+  }
+}
